@@ -1,153 +1,89 @@
-# 🧑‍💻 Yusuff Aseher – Developer & Tester
+<!-- Header Section -->
+<h1 align="center">🧑‍💻 <span style="color:#4CAF50;">Yusuff Aseher</span> — <span style="color:#03A9F4;">Developer & Tester</span></h1>
 
-Hi! I'm **Yusuff Aseher**, a developer and software tester focused on creating clean, responsive websites and ensuring high-quality applications through thorough testing and debugging.
+<p align="center">
+  <b>Building responsive websites • Creating real-world apps • Delivering quality through testing</b>
+</p>
 
-I specialize in **HTML, CSS, Python**, and build production-ready web applications using **Flask & Django**.
-
----
-
-## 🚀 Portfolio Overview
-
-### 🔗 Live Portfolio  
-*(Add your portfolio link here if available)*  
-`[View My Portfolio](#)`  
-
----
-
-## 👨‍💻 About Me
-
-I'm a developer and tester dedicated to building scalable, user-friendly web applications. I’m passionate about:
-
-- Crafting clean and responsive UI  
-- Writing maintainable Python backend code  
-- Ensuring stability with thorough manual testing  
-- Debugging and optimizing web applications  
-
-With experience in both development and quality assurance, I ensure projects are functional, stable, and intuitive.
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tester-Manual%20Testing-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frameworks-Flask%20%7C%20Django-purple?style=for-the-badge">
+</p>
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔹 Duepae – Rental Management System  
-A complete rental management platform with:
-- Tenant & owner login  
-- Secure authentication  
-- UPI/manual rent payment  
-- Auto-filled payment details  
-- Digital receipts  
-
-🔗 **Live Demo:** https://duepae.onrender.com  
+## 🌐 **Live Portfolio**
+🎉 **Visit My Portfolio**  
+👉 **https://yusuffaseher.netlify.app/**  
 
 ---
 
-### 🔹 Star Builders – Construction Company Website  
-A modern professional website featuring:
-- Service categories  
-- Portfolio showcase  
-- Construction calculators  
-- Fully responsive layout  
+## 👨‍💻 **About Me**
 
-🔗 **Live Demo:** https://starbuildersngt.in/  
+I’m **Yusuff Aseher**, a developer & tester passionate about building:
 
----
+✨ Building responsive and user-friendly web interfaces  
+✨ Writing clear and effective manual test cases  
+✨ Performing thorough manual testing across all modules  
+✨ Creating and executing automated test scripts  
+✨ Ensuring reliable, stable, and production-ready applications  
+ 
 
-### 🔹 Sait Lodge – Business Website  
-A complete business website for a 20+ year old shop featuring:
-- Service catalog  
-- Real-time recharge pricing  
-- AI chatbot integration  
-- Mobile-optimized UI  
-
-🔗 **Live Demo:** https://saitlodge-lrs.netlify.app/
+I combine **development + testing skills** to deliver polished and bug-free applications.
 
 ---
 
-### 🔹 Recharge Shop – Full-Stack Bill Payment System  
-Features:
-- WhatsApp bill sharing  
-- View/download receipts  
-- JWT-secured backend  
-- Real-time analytics  
-- Automated PDF reports  
+## ⭐ **Featured Projects**
+
+| Project | Live Link |
+|--------|-----------|
+| **Duepae – Rental Management System** | 🔗 https://duepae.onrender.com |
+| **Star Builders – Construction Company** | 🔗 https://starbuildersngt.in/ |
+| **Sait Lodge – Business Website** | 🔗 https://saitlodge-lrs.netlify.app/ |
+| **Recharge Shop – Bill Payment System** | 🔗 — |
+| **Weather App** | 🔗 https://weather-app-f5bm.onrender.com |
+| **Restaurant Order Management** | 🔗 https://restaurent-order-management.onrender.com |
+| **Chatbot** | 🔗 https://chatbot-2-lhps.onrender.com |
+| **Expense Tracker** | 🔗 https://expensetracker-9fpx.onrender.com |
+| **Fitness Tracker** | 🔗 https://fitness-tracker-ko2p.onrender.com |
+| **Photo Gallery** | 🔗 https://photo-gallery-f1p3.onrender.com |
 
 ---
 
-### 🔹 Weather App  
-Real-time weather updates using WeatherMap API.
+## 🛠️ **Skills & Technologies**
 
-🔗 **Live Demo:** https://weather-app-f5bm.onrender.com
+### 🔹 **Languages**
+💛 Python  
+🧡 HTML  
+💙 CSS  
 
----
+### 🔹 **Frameworks**
+🟣 Flask  
+🔵 Django  
 
-### 🔹 Restaurant Order Management  
-A responsive web system for handling real-time restaurant orders.
-
-🔗 **Live Demo:** https://restaurent-order-management.onrender.com
-
----
-
-### 🔹 Chatbot  
-Automated chatbot with real-time responses.
-
-🔗 **Live Demo:** https://chatbot-2-lhps.onrender.com
+### 🔹 **Testing & Tools**
+🟩 Manual Testing  
+🟧 Postman  
+🔴 JMeter  
+🟦 Katalon Studio  
 
 ---
 
-### 🔹 Expense Tracker  
-Manage income & expenses with a clean dashboard.
+## 📬 **Contact Me**
 
-🔗 **Live Demo:** https://expensetracker-9fpx.onrender.com
-
----
-
-### 🔹 Fitness Tracker  
-Track and analyze workouts and health metrics.
-
-🔗 **Live Demo:** https://fitness-tracker-ko2p.onrender.com
+📧 **Email:** yusuffaseher68@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/yusuff-aseher-ab4878215/  
+ 
 
 ---
 
-### 🔹 Photo Gallery  
-Clean grid-based gallery with responsive design.
-
-🔗 **Live Demo:** https://photo-gallery-f1p3.onrender.com
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🔹 Languages
-- Python  
-- HTML  
-- CSS  
-
-### 🔹 Frameworks
-- Flask  
-- Django  
-
-### 🔹 Testing & Automation
-- Manual Testing  
-- Postman  
-- JMeter  
-- Katalon Studio  
-
----
-
-## 📬 Contact Me
-
-- 📧 **Email:** yusuffaseher68@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yusuff-aseher-ab4878215/  
-- 🖥️ **GitHub:** https://github.com/Yusuffwebs  
-
----
-
-## 📄 Download My CV
-
+## 📄 **Download My CV**
 👉 **[Download CV](static/files/resume.pdf)**
 
 ---
 
-## © 2025
+## © 2025  
+**✨ Crafted with passion by _Yusuff Aseher_ ✨**  
 
-**© 2025 Yusuff Aseher — All Rights Reserved.**
